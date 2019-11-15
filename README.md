@@ -4,6 +4,6 @@ ENV:
 Python 3.8.0
 Bottle 0.12.17
 
-Requirements:
+Windows Installer Builder:
 NSIS
 NSSM
